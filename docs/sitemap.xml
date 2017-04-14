@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://willaustin.github.io/test/about/</loc>
     <lastmod>2017-04-13T22:42:08-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://willaustin.github.io/test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://willaustin.github.io/test/</loc>
     <lastmod>2017-04-13T22:42:08-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://willaustin.github.io/test/tags/</loc>
     <priority>0</priority>
   </url>
   
